@@ -3,7 +3,7 @@
 This project is a pixel-perfect, mobile-centered React application built from an Adobe XD/Figma design file. It was developed as a qualifier task for an interview.
 
 ## 🚀 Live Demo
-* **Live Site:** [Insert your Vercel/Netlify Link Here]
+* **Live Site:** [PopX Assignment](https://popx-assignment-topaz.vercel.app/)
 * **Design File:** [Adobe XD Design Link](https://xd.adobe.com/view/b68eea25-003d-4a5d-8fdd-d463eeb20b32-e3dd)
 
 ## 🛠️ Built With
